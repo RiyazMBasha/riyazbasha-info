@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/riyazbasha-info/static/css/main.fa6e63a5.css",
+    "main.js": "/riyazbasha-info/static/js/main.397cbde7.js",
+    "index.html": "/riyazbasha-info/index.html",
+    "main.fa6e63a5.css.map": "/riyazbasha-info/static/css/main.fa6e63a5.css.map",
+    "main.397cbde7.js.map": "/riyazbasha-info/static/js/main.397cbde7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa6e63a5.css",
+    "static/js/main.397cbde7.js"
+  ]
+}
